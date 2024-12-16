@@ -21,10 +21,10 @@
 [![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](#)
 #### DevOps
 [![oracle Badge](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)](#)
+[![Oracle Badge](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)](#)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](#)
 #### ETC
 [![photoshop Badge](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)](#)
-[![Oracle Badge](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)](#)
 [![linux Badge](https://img.shields.io/badge/Linux-232F3E?style=flat-square&logo=linux&logoColor=yellow)](#)
 [![postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)](#)
 <br /><br />
